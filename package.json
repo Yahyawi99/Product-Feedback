@@ -21,7 +21,7 @@
     "yamljs": "^0.3.0"
   },
   "scripts": {
-    "server": "nodemon ./server"
+    "server": "node ./server"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
