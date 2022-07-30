@@ -26,5 +26,7 @@
   "devDependencies": {
     "nodemon": "^2.0.19"
   },
-  "allowedHosts": "all"
+  "engines": {
+    "node": "16.16"
+  }
 }
